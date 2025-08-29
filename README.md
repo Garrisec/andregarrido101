@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Andre Garrido 👋</h1>
+<h1 align="center">Olá, sou o Andre 👋</h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/andre-garrido-69a087352/" target="_blank">
@@ -8,7 +8,7 @@
 
 <p align="center"> 
  <strong>
-  skills Profissionais
+  Skills Profissionais
   </strong>
 </p>
 
@@ -20,8 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="60" height="60" />-->
 </p>
-
-- 📃 Meu site: https://garrisec.tech
 
 </br>
 
